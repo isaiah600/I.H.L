@@ -6,7 +6,7 @@ Im building my own media server and slowly turning it into a proper homelab. Id 
 What it does right now
 A Jellyfin media server running in Docker on an old PC, so I can stream my own movies and shows to my phone and TV. I get to it from anywhere using Tailscale, so I never had to open up my home network to the internet.
 
-What I'm using
+What Im using
 
 Debian for the operating system
 Docker + Docker Compose to run everything
